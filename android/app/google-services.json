@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158276598118",
+    "project_id": "safarimovies-86f7e",
+    "storage_bucket": "safarimovies-86f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158276598118:android:4e7c23ecb240447f49f0a7",
+        "android_client_info": {
+          "package_name": "com.example.safarimovies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158276598118-fatdtviuqarbttk6vne4tokrncf8cjfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96LewFZQCvCpXadRNUh0VPCu9cF5_PG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158276598118-fatdtviuqarbttk6vne4tokrncf8cjfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
